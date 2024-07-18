@@ -2,7 +2,7 @@ Discord reddit bot in python
 
 Commands:
 
-!reddit <subreddit>
+!reddit < subreddit >
 
 !next
 
